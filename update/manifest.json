@@ -6,7 +6,7 @@
   "priority": "none",
   "required": false,
   "blocksUse": false,
-  "downloadUrl": "https://raw.githubusercontent.com/Caduceus/TyrianTally-Releases/main/0.1.9/TyrianTally.bhm",
+  "downloadUrl": "https://github.com/Caduceus/TyrianTally-Releases/blob/main/0.1.9/TyrianTally.bhm",
   "sha256": "54be41bdfa5226c026e27b563a35a6800ad4691b66172f654c3dd7c708a1f417",
   "message": "Tyrian Tally is up to date.",
   "publishedUtc": "2026-07-08T00:00:00Z"
