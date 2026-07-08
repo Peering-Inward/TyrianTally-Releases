@@ -1,13 +1,13 @@
 {
-  "module": "Tyrian Tally",
-  "namespace": "bh.peeringinward.TyrianTally",
-  "currentVersion": "0.1.9",
-  "minimumSupportedVersion": "0.1.9",
-  "priority": "none",
-  "required": false,
-  "blocksUse": false,
-  "downloadUrl": "https://github.com/Caduceus/TyrianTally-Releases/blob/main/0.1.9/TyrianTally.bhm",
-  "sha256": "54be41bdfa5226c026e27b563a35a6800ad4691b66172f654c3dd7c708a1f417",
-  "message": "Tyrian Tally is up to date.",
-  "publishedUtc": "2026-07-08T00:00:00Z"
+    "module":  "Tyrian Tally",
+    "namespace":  "bh.peeringinward.TyrianTally",
+    "currentVersion":  "0.1.9",
+    "minimumSupportedVersion":  "0.1.9",
+    "priority":  "none",
+    "required":  false,
+    "blocksUse":  false,
+    "downloadUrl":  "https://raw.githubusercontent.com/Caduceus/TyrianTally-Releases/main/0.1.9/TyrianTally.bhm",
+    "sha256":  "2bb003f1b99ec4245456b97f89c172c5f1a065391f9f9fd97fc826783d4b9d07",
+    "message":  "Tyrian Tally is up to date.",
+    "publishedUtc":  "2026-07-08T23:50:37Z"
 }
