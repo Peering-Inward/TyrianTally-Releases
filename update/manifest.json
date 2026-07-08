@@ -6,6 +6,6 @@
   "priority": "required",
   "required": true,
   "blocksUse": true,
-  "message": "Required update test."
+  "message": "Required update test.",
   "publishedUtc": "2026-07-08T00:00:00Z"
 }
