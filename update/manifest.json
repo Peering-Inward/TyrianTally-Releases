@@ -6,8 +6,8 @@
     "priority":  "none",
     "required":  false,
     "blocksUse":  false,
-    "downloadUrl": "https://github.com/Peering-Inward/TyrianTally-Releases/raw/main/0.1.9/TyrianTally.bhm",
+    "downloadUrl":  "https://raw.githubusercontent.com/Caduceus/TyrianTally-Releases/main/0.1.9/TyrianTally.bhm",
     "sha256":  "2bb003f1b99ec4245456b97f89c172c5f1a065391f9f9fd97fc826783d4b9d07",
     "message":  "Tyrian Tally is up to date.",
-    "publishedUtc":  "2026-07-09T01:04:46Z"
+    "publishedUtc":  "2026-07-09T01:38:57Z"
 }
