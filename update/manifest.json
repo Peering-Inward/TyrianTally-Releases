@@ -7,7 +7,7 @@
     "required":  false,
     "blocksUse":  false,
     "downloadUrl":  "https://github.com/Peering-Inward/TyrianTally/raw/refs/heads/main/0.1.10/TyrianTally.bhm",
-    "sha256":  "823509a29028477e83f804fd348681e5837b28c3eeb0105db920eea86c4c1e21",
+    "sha256":  "1a7b7062146ffb6afd349f2f8cecc2b34b6bf4aed450aeb08559395aae9c099f",
     "message":  "A newer version of Tyrian Tally is ready.",
-    "publishedUtc":  "2026-07-10T00:04:31Z"
+    "publishedUtc":  "2026-07-10T00:28:40Z"
 }
